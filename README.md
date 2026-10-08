@@ -96,8 +96,8 @@ provenance check guards against copied code. Icons are Microsoft's Fluent UI Sys
 
 | | | |
 |---|---|---|
-| ![ChessForge](assets/apps/chessforge.png) | ![Comic Translator](assets/apps/comic-translator.png) | ![Audio Story](assets/apps/audio-story.png) |
-| [**ChessForge**](https://github.com/pntrungbk15/chessforge-showcase): a local chess workstation with Stockfish analysis, training and neural-network training. | [**Comic Translator**](https://github.com/pntrungbk15/comic-translator-showcase): local comic and manga translation with OCR, LLM translation, inpainting and lettering. | [**Audio Story**](https://github.com/pntrungbk15/audio-story-showcase): an AI studio for narrated audio stories with LLM writing help and local TTS. |
+| ![ChessForge](assets/apps/chessforge.png) | ![ComicTranslator](assets/apps/comic-translator.jpg) | ![Audio Story](assets/apps/audio-story.png) |
+| [**ChessForge**](https://github.com/pntrungbk15/chessforge-showcase): a local chess workstation with Stockfish analysis, training and neural-network training. | [**ComicTranslator**](https://github.com/pntrungbk15/comic-translator-showcase): translate manga, manhwa and comics locally with real models (detection, multilingual OCR, LLM translation, inpainting) and project-wide proofreading. | [**Audio Story**](https://github.com/pntrungbk15/audio-story-showcase): an AI studio for narrated audio stories with LLM writing help and local TTS. |
 
 | | |
 |---|---|
